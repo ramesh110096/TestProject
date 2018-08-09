@@ -12,6 +12,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void display(){
-// fkdslfjldfdlsjfkl ldsjfkldsj fl l kll ksldfjlds
+    System.out.println("this is my project");
     }
 }
